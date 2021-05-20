@@ -1,0 +1,12 @@
+node_modules/
+
+*.log
+
+.vscode
+.idea
+
+.env
+.env.example
+
+yarn.lock
+package-lock.json
